@@ -1,0 +1,31 @@
+/* 
+Topics to focus:
+
+1. understanding linking
+2. understanding css writing way/method
+3. understanding width, height
+4. understanding units, px and %
+5. understanding background image and things related to image
+6. understanding position absolute
+7. understanding flexbox
+8. css animations
+*/
+
+/* always start with this aka bolierplate */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+/* 3. understanding width and height */
+#main{
+    width : 20%;
+    height: 30%;
+    background-color: black;
+}
