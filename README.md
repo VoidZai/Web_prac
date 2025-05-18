@@ -48,9 +48,10 @@ Web_prac/
 ├── Projects/          # Small frontend builds & UIs
 ├── CheatSheets/       # Quick reference guides
 └── README.md
-``` -->
 
+``` 
 ---
+-->
 
 ## 🚀 Getting Started
 
